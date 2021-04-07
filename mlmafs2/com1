@@ -1,0 +1,16 @@
+n
+v
+c
+v
+c
+v
+p $text
+$text = "look ma, from the debugger "
+c
+p $text
+$text = "this is nothing like gdb."
+c
+v
+c
+c
+#save com1
